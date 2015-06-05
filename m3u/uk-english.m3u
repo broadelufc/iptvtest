@@ -1,15 +1,7 @@
-#EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 03/06/15 @ 06:54 [/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
-#EXTINF:-1, [COLOR green] --Uk Live Tv--[/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
-#EXTINF:-1, [COLOR green] --Free Collection of IPTV sports links--[/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
-#EXTINF:-1, [COLOR red] --Links will go down. Please note that it will take time to update--[/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
-#EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
+
+#EXTINF:-1, [COLOR green] --Broade Uk Live Tv and Sports--[/COLOR]  
+
 
 #EXTINF:-1,Bt sports 1
 rtmp://80.82.64.140:443/liverepeater playpath=42 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=42&width=600&height=450 token=#atd%#$ZH
