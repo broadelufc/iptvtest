@@ -1,17 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 04/06/15 @ 23:01 [/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
-#EXTINF:-1, [COLOR green] --Sports Live Tv--[/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
-#EXTINF:-1, [COLOR green] --http://bit.ly/hushamallsports--[/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
-#EXTINF:-1, [COLOR green] --Free Collection of IPTV sports links--[/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
-#EXTINF:-1, [COLOR red] --Links will go down. Please note that it will take time to update--[/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
-#EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+
+#EXTINF:-1, [COLOR green] --Broades live Sports--[/COLOR]  
+
 
 
 #EXTINF:-1,Bt sports 1
@@ -244,72 +235,6 @@ rtmp://94.102.49.126:443/liverepeater/wwee pageUrl=http://xxxxxxxxxxxxxxxx.xx/rt
 #EXTINF:-1,UFC (Not english)
 rtmp://89.248.172.95:1935/iguide playpath=ntym4uva8lcfbc0?ewpegl393qjjqoq?kwbcxxg555hzddt?bm6ldx2dhh1bi5z?ewpegl393qjjqoq?y9l42vxtum2xdgv?vouoo4ltzl15a52?s1hh2ocjs9gvbz0?utifa3u3m1ktgd6?s1hh2ocjs9gvbz0?utifa3u3m1ktgd6?ztg7uhgjinfktt4?p7wksud7foc4cqd?c9l3ahxqsbqmi0t swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
-
-
-#EXTINF:-1,PAC-12 Anistorpic
-http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/index_2328_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,PAC 12 Arizona HD 
-http://www.xrxs.net/video/live-p12ariz-4728.m3u8
-#EXTINF:-1,Pac 12 Arizona HD 
-http://xrxs.net/video/live-p12ariz-4728.m3u8
-#EXTINF:-1,PAC 12 Bay Area HD
-http://www.xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF:-1,Pac 12 Bay Area 
-http://xrxs.net/video/live-p12baya-2328.m3u8
-#EXTINF:-1,PAC 12 Los Angeles HD ( 1080 )
-http://xrxs.net/video/live-p12losa-4728.m3u8
-#EXTINF:-1,PAC 12 Mountain HD ( 1080 ) 
-http://xrxs.net/video/live-p12moun-4728.m3u8
-#EXTINF:-1,PAC 12 National HD ( 1080 )
-http://www.xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1,Pac 12 National HD ( 1080 )
-http://xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1,PAC 12 Oregon HD ( 1080 )
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS", Pac National 1080 HD
-http://xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS", Pac Arizona 1080 HD
-http://xrxs.net/video/live-p12ariz-4728.m3u8
-#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS", Pac Bay Area 720 HD
-http://xrxs.net/video/live-p12baya-2328.m3u8
-#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS", Pac Los Angeles 1080 HD
-http://xrxs.net/video/live-p12losa-4728.m3u8
-#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS", Pac Mountain 1080 HD
-http://xrxs.net/video/live-p12moun-4728.m3u8
-#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS",PAC-12 Net. (National)
-http://xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS",PAC-12 Net. (Arizona)
-http://xrxs.net/video/live-p12ariz-4728.m3u8
-#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS",PAC-12 Net. (Bay Area)
-http://xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS",PAC-12 Net. (Los Angeles)
-http://xrxs.net/video/live-p12losa-4728.m3u8
-#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS",PAC-12 Net. (Moutain)
-http://xrxs.net/video/live-p12moun-4728.m3u8
-#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS",PAC-12 Net. (Oregon)
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:-1 tvg-logo="Pac12.png" group-title="HD SPORTS",PAC-12 Net. (Washington)
-http://xrxs.net/video/live-p12wash-4728.m3u8
-#EXTINF:-1,PAC 12 Arizona (HD link 1)
-http://www.xrxs.net/video/live-p12ariz-4728.m3u8
-#EXTINF:-1,Pac 12 Arizona (HD link 2)
-http://xrxs.net/video/live-p12ariz-4728.m3u8
-#EXTINF:-1,PAC 12 Bay Area (HD)
-http://www.xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF:-1,Pac 12 Bay Area 720 HD
-http://xrxs.net/video/live-p12baya-2328.m3u8
-#EXTINF:-1,PAC 12 Los Angeles (HD)
-http://xrxs.net/video/live-p12losa-4728.m3u8
-#EXTINF:-1,PAC 12 Mountain (HD)
-http://xrxs.net/video/live-p12moun-4728.m3u8
-#EXTINF:-1,PAC 12 National (HD link 1)
-http://www.xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1,Pac 12 National (HD link 2)
-http://xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1,PAC 12 Oregon (HD)
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:-1,PAC 12 Washington (HD)
-http://xrxs.net/video/live-p12wash-4728.m3u8
 
 
 #EXTINF:-1,USA-BASKET UNI.(Arizona)
