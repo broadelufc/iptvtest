@@ -55,73 +55,232 @@ rtmp://94.102.49.126:443/liverepeater playpath=17 swfUrl=http://popeoftheplayers
 #EXTINF:-1,Eurosport 2 (not english)
 http://yayinlar.tvizleyim.com/org9/eurosport2_me/playlist.m3u8
 
-#EXTINF:-1, BBC1
-http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc1.m3u8
-#EXTINF:0,BBC One
-http://82.135.224.134:80/udp/239.100.3.1:1234
-#EXTINF:0,BBC One Scotland
-http://82.135.224.134:80/udp/239.100.3.2:1234
+#EXTINF:-1,Bbc 1
+
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston/rtsplive/mptslive/bbc1-sat.mp4.m3u8
+
+#EXTINF:-1,Bbc2
+
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston/rtsplive/mptslive/bbc2-sat.mp4.m3u8
+
+#EXTINF:-1,Itv1
+
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/itv1-sat.m3u8
+
+#EXTINF:-1,Channel 4
+
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/ch4-sat.m3u8
+
+#EXTINF:-1,Channel 5
+
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/ch5-sat.m3u8
+
+#EXTINF:-1,Bbc news
+
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston/rtsplive/mptslive/bnews-sat.mp4.m3u8
+
+#EXTINF:-1,Skynews
+
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/skyn-sat.m3u8
+
+#EXTINF:-1,Cbbc
+
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston/rtsplive/mptslive/cbbc-sat.mp4.m3u8
+
+#EXTINF:-1,#EXTINF:-1,Cbeeb
+
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston/rtsplive/mptslive/cbeeb-sat.mp4.m3u8
+
+#EXTINF:-1,Itv2
+
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/itv2-sat.m3u8
+
+#EXTINF:-1,Itv3
+
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/itv3-sat.m3u8
+
+#EXTINF:-1,Citv
+
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/citv-sat.m3u8
+
+#EXTINF:-1,Itv4
+
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/itv4-sat.m3u8
+
+#EXTINF:-1,More4
+
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston3/rtsplive/mptslive/more4-sat.m3u8
+
+#EXTINF:-1,E4
+
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston3/rtsplive/mptslive/e4-sat.m3u8
+
+#EXTINF:-1,5star
+
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/5star-sat.m3u8
+
+#EXTINF:-1,5usa
+
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/5usa-sat.m3u8
+
+#EXTINF:-1,Film4
+
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/film4-sat.m3u8
+
+#EXTINF:-1,Horror1
+
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston3/rtsplive/mptslive/horror1-sat.m3u8
+
+#EXTINF:-1,Tmov1
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/tmov1-sat.m3u8
+
+#EXTINF:-1, Tmov2
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/tmov2-sat.m3u8
+
+#EXTINF:-1, TDrama
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/trdma-sat.m3u8
+
+#EXTINF:-1,Trent
+
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/trent-sat.m3u8
+
+#EXTINF:-1, cbsact-sat
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston3/rtsplive/mptslive/cbsact-sat.m3u8
+
+#EXTINF:-1,Cbreal
+
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/cbsreal-sat.m3u8
+
+#EXTINF:-1,Pick
+
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/pick-sat.m3u8
+
+#EXTINF:-1,Quest
+
+http://77.95.36.130/RSEG/HLS_TS/broadcast/HB400-4/rtsplive/mptslive/quest.m3u8
+
+#EXTINF:-1,Challenge
+
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/challenge.m3u8
+
+#EXTINF:-1, 4seven
+http://77.95.36.130/RSEG/HLS_TS/broadcast/HB400-4/rtsplive/mptslive/4seven.m3u8
+
+#EXTINF:-1,Yesterday
+
+http://77.95.36.130/RSEG/HLS_TS/broadcast/HB400-4/rtsplive/mptslive/yday.m3u8
+
+#EXTINF:-1,Food network
+
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/food.m3u8
+
+#EXTINF:-1,comm-sat
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston2/rtsplive/mptslive/comm-sat.m3u8
+
+#EXTINF:-1,Heat
+
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston3/rtsplive/mptslive/heat-sat.m3u8
+
+#EXTINF:-1, nowmus-sat
+http://77.95.36.130/RSEG/HLS_TS/broadcast/boston3/rtsplive/mptslive/nowmus-sat.m3u8
+
+#EXTINF:-1,Viva
+
+http://77.95.36.130/RSEG/HLS_TS/broadcast/HB400-4/rtsplive/mptslive/viva.m3u8
+
+#EXTINF:-1,4music
+http://77.95.36.130/RSEG/HLS_TS/broadcast/HB400-4/rtsplive/mptslive/4music.m3u8
+
+#EXTINF:-1, BBC News
+http://live304.edge.filmon.com/live/27.low.stream/chunklist_w1102526795.m3u8?id=0ad5aac39bb13fbe79eef707d290a516f9e8babd126a4f2a31c96273083a598dd47adf81fcdb4767fe0913adb91855d89828b7fe48119649c5bbb8840961e7c3962745c1b817911aae86e61c86770f81f3805970c5d139ea5de7d72cb4a228b01bec8712eb7104a1d5ce80cf2b8d32cf8e6d50b55225b3d7fdbb43e540cb5c93d286b06c0586224d8aada1ef9e813f445ac8039b91b8cb89
+
+#EXTINF:-1, BBC News
+
+
+#EXTINF:-1, BBC One
+http://198.179.30.109/live/14.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe67c252aea48deddae592a7b1c72ddca6ca2346943922705d6b6d1f1c13351e5759fd4f71c0d8998e3063c584caa09ea8b2f627919a181ef8fac5479cdb3a06b46767e78e091ef7b23e43d460d36f49ec28bea8a779b91ebe71e7c675745b6191e720a0651b847eb249eb4d3aaf4d2e2a136bc18b890ac10bda200daa9914125c8215b2ac6afe9d6a8a6da8d1c12fbe30
+
 
 #EXTINF:-1, BBC2
-http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc2.m3u8
+http://198.179.30.109/live/25.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe095bddf10ab6f09000ddf2db9d1fb98aa989d3f3032ad0a995f570aa80a1a57d2012dc43a5a86f5172172d1dcb02f0e605e389e1a74b7c26522253ce31d4157dea63d30eac69a63d4fb5f3b62ebca54690bfbaf84f6200f320d4433ea94303a9faadcf4a6e20ceaaa8f31e43615a034543738b3f6950299ccaef9048753f35dc68224ffa51bad93bb4d0156b3e92c928
 
-#EXTINF:0,BBC Two England
-http://82.135.224.134:80/udp/239.100.3.3:1234
-#EXTINF:0,BBC Three
-http://82.135.224.134:80/udp/239.100.3.4:1234
-#EXTINF:-1, Cbbeebies / BBC 3
-http://llnw.live.simplestream.com/coder7/coder.channels.channel4/hls/3/playlist.m3u8 ITV1 
+#EXTINF:-1, ITVe
+http://live300.edge.filmon.com/live/3211.low.stream/chunklist_w870997519.m3u8?id=0ad5aac39bb13fbe699291f858948b21a6e491c2ff7c52434783b8c2d11ad02d54fdc24916d90f9c21795f4cdf81d30acd848454867a2d4cf765095e95c50138872ebfb1d4d541d06de6275c4fb06f7314e04f5f2e0447f2750139ba6e1c99fe7d79a25d95aa718da3f07d3229610d508ea0774eef7495dc860409d02c2d688b219304d629ad0b2b6265d41efb3a09944e4bbaac68389896
 
-#EXTINF:0,BBC Four
-http://82.135.224.134:80/udp/239.100.3.5:1234
-#EXTINF:-1,London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-#EXTINF:0,London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-#EXTINF:-1,ITV 1
-http://82.135.224.134:80/udp/239.100.3.6:1234
-#EXTINF:0,ITV 1 London
-http://82.135.224.134:80/udp/239.100.3.6:1234
-#EXTINF:-1,Itv choice
-http://185.27.237.105:8082/TV0055
-#EXTINF:-1, Channel 4
-http://198.179.30.108/live/2.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe64a6144bd6452f35c672a6f5b1e14cad12f329b0e20f5ed97009e918be1e54d2ff9d69cd1875fb7da3b831812ca1b7e0c0621752f58c80751ac8ef0bab7ed67d7345bf0d71fda7cc06a28c0ca58d3ffa913ef6877100fb60d6e062894cd4cacbb1b2a741bd96c47cb5e1a799e368f70887872164d6d024e3788a9992618d613c8b77fdd22a7b3aeba948ff144a5e8627
-#EXTINF:-1, Five
-http://198.179.30.108/live/22.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe18ad473691ff9736ccb307cd9fb41092cba419fc04e218a216f9f669ce4ffbbceadd6721f4335f98416ee190cef6239c5853ac468b1fedd1da7978085299891cd3369f153f45f03a6eb42bab0269237740cdc64f619db0f0178cf651441120c84adcf539733b3e48117044d6c15b428e2022ca0dacdf7e87c1f6d7ac3820dbdb1de6b26c863988e3f3083f09b2317007
-#EXTINF:-1, 5 usa
-http://198.179.30.110/live/845.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe3612080ed69c3ac8d7ca6458a5e9b14e24f165080377c37c9d417afb8370d6ffffa76e21cf6ebdb581e592898e0f54b40ea1900678e8d16e001dd721d6b216c27cec77a28077db8bd89ab326b34cf4c505511f657dd4258e03eb3fb2bd1d35417cfc943780864c56be01e25a13c7e4738fc46370616af0f7c146441cfd9a8e6a28acef21efed80f3703a697a190240c1
-#EXTINF:-1, 5*
-http://live300.edge.filmon.com/live/851.low.stream/playlist.m3u8?id=0ad5aac39bb13fbed32ca9e84fc504ec980c28eb323bcaeb482abbe9bdb2eb8d6c413567a0d08351c145c8377f4c530cb2f2b0dda020e7f64622c22dd46bb771045f0d9c0dd42c634f031533e82f2294b0b1a76b79d47e9dddc0cfb5bc7f6f0bcd49e85ca8c0dbd1832591bb778bd3b17b985623f89c300faad32d60ae0ba1669b00512de744a6d258e535ffcbfce51664fd3dc82a5b2678
+
+#EXTINF:-1, BBC Three
+http://198.179.30.109/live/113.low.stream/playlist.m3u8?id=0ad5aac39bb13fbef3ab07c029e675e2551f5c1d5160e86bc751629860099be5c6eb461d17287c724c28774f5a707d12e981b438564590e63c4d20e3690ea965e3fb04c4cabc06f9ce4975a60e0e50f29fd99d3af55f107f34d35cbd259d623ae1bb09ee955648007aaf344edcc7498389444d3a573f3ab19486dc9fb29992bdff4990da49a90bd99ac8f8c53331bf0ab911e169beb18e52
+
+#EXTINF:-1, BBC Four
+http://198.179.30.109/live/103.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe45475cb58cbd150441a566ae6d8b0a91794f5eef90fd960fbafa26f8651470824886bc5f2d2b0e27a843c35b0a4fec5eb2ba90f0d7f75c411ea5caec173adc277c57393b804a0a29fb6a812120968e95a41519f086d547737f6d87292150d25d946aaa29ae62b818200be180504539862ec12fadeeeefc426f997b31a68ba73466fee21f5d489faffb1eb59e707fa2d7
+
+
+#EXTINF:-1, Channel Four
+http://198.179.30.108/live/2.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe2362cf3eb2275060bf02a0b6828d5d4aa9a973cd937e6071f4a82b13cc3c0854d9af4388beaf5865d681359f1cb575bb74d53bc9a52720ddb267333ff33d399e4d401ca0ca745f5cc0829ce012a554185a9d7e7d6d6b7180264936d9442cdd6cf8c3477561c072643f744bacb68fb21b09df655b2ac5bebd8d59688578df745524fa14aa54e822b672ffa874f3d451ed
+
+#EXTINF:-1, Channel Five
+http://198.179.30.108/live/22.low.stream/playlist.m3u8?id=0ad5aac39bb13fbec298bc6a705418cd5cb3d16e01d0406a9ea33e232315bf5f10fd78ea7b3ea804ea537f5c4d9dd027b5cc1d16e07b1fda64fe5cad547d2663dcda7615465d2e8d7a42729922895d3893e1768c4cd5aacebc0ab684be38e83f534a4951dcc6d31d6b69f41ec2dc3cd80e8bacca1cfbcc8378d6cc87d72a92468a8069cf91f1ac71a9444288c32605e3053baf8c2945815e
+
+#EXTINF:-1, ITV
+http://198.179.30.100/live/11.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe456876bdbd8a307244d7ad5b4a6fc325ad0f8398d0bbfe9d7d54b6eeb289b5201a3f6db5aa95dbd3a22441c8ff03ffe231b5f7b65765555be611ae45da2da40dd412e856f70508960f3a125fd348f5f06505a8bfa991dd63687c8c3e64ed56c63b3d0b699b049482c476d205f16d461cf75fe253d8ca0a0d4ab0c1c06d9759f20e8212a7f590ad54c289c2994c8fe9d6
+
+#EXTINF:-1, ITV3
+http://198.179.30.108/live/26.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe1501d6796de3d9c889b599decbe16ef148714263bb45c6b0e6eb3bbebdf23fdc8a10003254b9f4a6fe3109dab0b636f8923e3f5e9ef6a6d15f11650b8e7d09ce9ad76621659381c0668cb770d22c9b071442368d9d36f7b5e1408991a5ee5252c20d1cc48e3298d1fb2b2cdd06427dc1398e4e162b27c48bf8d43e38c94ecc17cf84bd694ccaf50cb1d6f08e31876077
+
+#EXTINF:-1, ITV4
+http://198.179.30.108/live/101.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeca440acaaaf622eb966e2257c1cf48c66de5008b62fecb4d92c193534626ff177484bf8ecb7295135459045c7335f94c46685d7b0dd38fc7989111c329741157f930c504a44e63e034950bd5e4b7dd5c3ce540a626d3a74639c3e6156b513f11d1c9946008a9153923a1cd078948a77814f597d431d8b2c84c8604038b827b449c8e6cc370d9ccf882f4372eaa9d624b
+
+
+
+#EXTINF:-1, Dave
+http://live308.edge.filmon.com/live/370.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe427168f9cd29158ba852053aada7c4757671b45521de29b8d5996670f0aaf453f40c31f58c887890b56cf860fa857186c596727e8956ade34fcee84a855cf3dcbb37144e6aad4ac1dc0ca78fe14013c0e8e50e6b942ec928e272530b1e67be667a480296d0d3f164da489294724ed36b198cfa7a0979c52c672b6870ff2a562e64b5d55b7e9aa676cd5e8b60bcec7fbe
+
+#EXTINF:-1, ITV2
+http://198.179.30.108/live/67.low.stream/playlist.m3u8?id=0ad5aac39bb13fbed76f45a0ddbc3479a62e09f4018e905167df190989fa56586976ce98f3612a01d43e9831edd8b276345290027e775cf573a7505ee31e304e04e5e5c71a5d937e6ecd9e21f06546f45669f56bb552161c5e6caeba96ad6cee94485f1349ff2d90685379f4743e978e0cf23481a1d76dfd5a3315b01b5ef9528d696b40630dc98ba18637d8f04883ac43f8bcf42c166b89
+
+
+#EXTINF:-1, Quest
+http://live307.edge.filmon.com/live/2707.low.stream/chunklist_w320581979.m3u8?id=0ad5aac39bb13fbe5ccc1ca47e806b3c544091c17843be0530728f315ebf86aa3b58f44e817742ba383eb69dd25ee9d0ac647463f0675914e29927d587912f70fa157ee9cfa9a6bc81aa554b7ce16ddb5b03a0d5a42e998e313c5098f0b537d3edef3ba156e4446834a4a1eb7b0772a0c49ab6e2e322e6fa55c13fb7cad92893ac9c9032c8cec265a95c3f9377a223eccf38e39e538c62a8
+
 #EXTINF:-1, E4
-http://live304.edge.filmon.com/live/65.low.stream/playlist.m3u8?id=0ad5aac39bb13fbee93ef44a91315a0288cb74e7b2aae2a7278689f3856d3ac785d7f126cc88907d96ace187b95e5f84cf7477a5b4c7b18e8e886bca2cec950ea86a5397c41e6dcccc9ea0187a9a57b4ac76cfe51b3264b57fcdb62b01a30aa2cdb4619764b3b68c5c27b46ea817d32c0ac24243a9553bb88645e4ec2867e3831f6b5137679198dac603247a73f80e5ccaa86e6948595f81
-#EXTINF:0, E4 HD
-http://pebbles124-lh.akamaihd.net/i/e4_1@137789/master.m3u8|X-Forwarded-For=85.5.87.218
-#EXTINF:0,DANCE TV
-http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
-#EXTINF:0,BANDAMAX HD
-http://200.76.77.237/LIVE/H01/CANAL732/PROFILE02.m3u8?
-#EXTINF:0, Music
-http://46.249.213.87/iPhone/broadcast/b4u-tablet.3gp/b4u-tablet.3gp-mr648k.m3u8?trackingid=3391380000&os=desktop
-#EXTINF:0,CAPITAL TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,Channel AKA
-http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:0,Clubland TV
-http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:0,MTV Music HD
-rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream
-#EXTINF:0,MTV Hits SD
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8
-#EXTINF:0,MTV Dance HD
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8
-#EXTINF:0,MTV Rocks HD
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8
-#EXTINF:-1, Film 4
-http://78.129.175.72/live/film4/film4.m3u8
-#EXTINF:0, Film4 HD
-http://pebbles124-lh.akamaihd.net/i/film4_1@137790/master.m3u8|X-Forwarded-For=85.5.87.218
+http://live304.edge.filmon.com/live/65.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe10bba9620921ff7ca53939da3ffa41aaf16d7096d7ba227f7cf46e8610654ccb03d671d4cd7660e8004f1fc8a2e96c94ff52a59f4eab8b306b7fe79ced55a9da237b59df7fc2cfd5d10bb8e15c04fcdadb6c01aac99dafbad527065fdca6cf6434caa3d5e5a60b8366624b6595436ece6bc1d3039a930a45463d434b0560266380cc00251a62dee1f3261741c0d6ced2
+
+#EXTINF:-1, CBS Reality
+http://198.179.30.110/live/1808.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe48aceacf7a895ee7f12c3e08b18a22f5e336a0130a696d4b491964edb41cc099bd673515c929fccf8c025dc490617335f15f85fb820341e9f3cf710ef2187475607cb5eb7bd7b57788b1f7434ef0d3874bb71a29f8160b2e4acae88aeb4e08c65dbbb68459b203a5b58ee9f7055dcb2c00fe4bde12cef598e11c6e856568b4877d53dc86fedb2c17b35c8082aa9712a8
+
+#EXTINF:-1, CBS Drama
+http://198.179.30.110/live/1808.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe48aceacf7a895ee7f12c3e08b18a22f5e336a0130a696d4b491964edb41cc099bd673515c929fccf8c025dc490617335f15f85fb820341e9f3cf710ef2187475607cb5eb7bd7b57788b1f7434ef0d3874bb71a29f8160b2e4acae88aeb4e08c65dbbb68459b203a5b58ee9f7055dcb2c00fe4bde12cef598e11c6e856568b4877d53dc86fedb2c17b35c8082aa9712a8
+
+#EXTINF:-1, 5*
+http://live300.edge.filmon.com/live/851.low.stream/playlist.m3u8?id=0ad5aac39bb13fbea10fa71dd9ed0fa0d013640d1bfd4546ad88621f3e986448761db1d86cdb32b5097933d70047b6637d0b18d8867df0eafa382f7e93a8ad0d3de5a42318f426771db522ea919d80208887f339809f57c55a65651897e3e55be99b1d0811ae46db87a0756898f8963404d47a349c6f52437c2775323d29acf1bb1510026b2ef98220701d1d82b56e0473d1ab445daef892
+
+#EXTINF:-1, 5USA
+http://198.179.30.110/live/845.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe5b31296020ff0b09af65e1077c1ece5331991ee2a65ce582c315357f08132f5941c8d66c88eaeb00faa4a69104076c39bb9d6cac6ec685b47a3c8cd98b7616b631285299e11e3217f10015bcc3d27da8c8b1c43eb230c58b58da5cf8f3cb2be26fce11863c923cff9b0ade2da0d3608bf03f315a9b5adf375107981e7fd8cec0949be8805c1416faf4d258123dfc1383
+
+#EXTINF:-1, PickTV
+http://live308.edge.filmon.com/live/371.low.stream/chunklist_w606465294.m3u8?id=0ad5aac39bb13fbe0931701bb034356098642f6875ea34e9334fad4ece6a7b397c90a9a5f7d890df7a3e00bbbe799b6f786e9b072833cf98c743fc6e0c41f31b398b981eb216f7df2f59963f2c5d79d60847891a3e4b6d7ec52f11ac9ecca74503642e1b1c43ff9a8298690322a4adfeb16b57db63f475a06e4e1baa529639d0b65741f138db7a731cad08e5e97cf9975cfa44fa7db52343
+
+#EXTINF:-1, CBBC
+http://live300.edge.filmon.com/live/29.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe2b5a0eacda7bc5aa0e61442562395200af4b678a12fb3539d1104dd2c4f169d8998b0fd4d45bc445f6e9773c0ce8103423786c21d0b08bf29d855ded2d8cc07c5048c04601393bbfced33fab3d13e57d5cc0b5e4438c35e4b7d478319633af3eaf0474671469e78a5ae17799ee1466c0f640a33dc393ed239dc94835c77dc3b4ceab8a642e4f3fe9d2b8fd75740fe20e
+
+#EXTINF:-1, CBeebies
+http://198.179.30.109/live/3191.low.stream/playlist.m3u8?id=0ad5aac39bb13fbea96fc3df34e942283802bb38028c64fc5add7765f0e90760014438cf0c3440fd0f43b31ffe3f08c0e6a99cc0b9be273a430ab7332c80609b2743d72f1defba9281457b0cddeffe91213cda1d45aeec5339ec0f7ece05f0b3101cc7f67ed6e793954195696b545eb9bfdfe6dacec8561fb7f2a4681f6aeab9a1d00bec721f2c2ffd0b10b678e5641afc97bace1334aa34
+
+#EXTINF:-1, Seasame Street (POD Cast)
+http://204.107.26.92:1935/vodlast/1286.low.m4v/playlist.m3u8
 
 
+
+#EXTINF:-1, SKy Movies Premier
+rtmp://31.220.0.195:80/live playpath=mov5 pageUrl=http://flashtv.co/Vd?u#bt!25 
+
+
+#EXTINF:-1,SKY Movies Horrors
+rtmp://31.220.0.195:80/live playpath=horrors pageUrl=http://flashtv.co/Vd?u#bt!25 
+
+
+#EXTINF:-1, Sky Movies Thriller
+rtmp://31.220.0.195:80/live playpath=mov3 pageUrl=http://flashtv.co/Vd?u#bt!25
 
 
 #EXTINF:-1, Sky Arts
@@ -171,6 +330,99 @@ http://185.56.30.123:8082/TV4248
 #EXTINF:1,Sky   Movies SciFi 
 http://185.56.30.123:8082/TV4249
 
+#EXTINF:-1 , Fox Action
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=304&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 , Fox Family
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=343&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 , Fox Premiers
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=300&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 , FOX
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=88&lan=2&rows=40&f=.m3u8
+
+#EXTINF:-1 , FX HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=104&lan=2&rows=40&f=.m3u8
+
+
+#EXTINF:-1,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
+#EXTINF:-1,Al Jazeera News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_528.m3u8
+
+#EXTINF:-1,Animal Planet
+http://83.139.104.123/Content/HLS/Live/Channel(animal_planet)/Stream(03)/index.m3u8
+
+#EXTINF:-1,Animal Planet HD
+http://202.75.23.34/live/ch31/03.m3u8
+
+#EXTINF:-1,BBC News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+
+#EXTINF:-1,Fashion TV
+http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
+
+#EXTINF:-1,I24 News English
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+
+#EXTINF:-1,Kiss TV
+http://csm-e.cds1.yospace.com/csm/live/86561716.m3u8
+
+#EXTINF:-1,4 Music
+http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8
+
+#EXTINF:-1,Now Thats What I Call Music Channel
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:0,CAPITAL TV
+rtmp://cdn-sov-2.musicradio.com:80/LiveVideo/Capital
+
+#EXTINF:-1,Russia Today
+http://rt.com/s/rtplayer/playlists/rt_global.m3u8
+
+#EXTINF:-1,TLC
+http://83.139.104.123/Content/HLS/Live/Channel(TLC)/Stream(03)/index.m3u8
+
+#EXTINF:-1,Viasat History
+http://83.139.104.123/Content/HLS/Live/Channel(viasat_history)/Stream(03)/index.m3u8
+
+#EXTINF:-1,ATV+1
+rtmp://195.228.75.97/atvliveedge/_definst_/atvstream_2_aac
+
+#EXTINF:-1,fix tv hd
+rtmp://video.fixhd.tv/fix/hd.stream
+
+#EXTINF:-1,Dance TV HD HU
+http://91.82.85.16:1935/relay15/nettv_channel_1/HasBahCa.m3u8
+
+#EXTINF:-1,Duna HD_800 kbps
+http://212.40.98.166/intstreams/mtva/dunalive.smil/chunklist_w979916724_b800000_t64MjcwcCBNb2JpbGUgSGlnaA==.m3u8
+
+#EXTINF:-1,FIX hd
+rtmp://video.fixhd.tv/fix/hd.stream
+
+#EXTINF:-1,HirTV+1
+http://streamserver.mno.netrix.hu:8080/hls_delayed/live_ep_512k.m3u8
+
+#EXTINF:-1,M1 HD
+http://212.40.98.166/intstreams/mtva/mtv1live.smil/chunklist.m3u8
+
+#EXTINF:-1,M2 HD
+http://212.40.98.166/intstreams/mtva/mtv2live.smil/chunklist.m3u8
+
+#EXTINF:-1, Discovery
+http://202.75.23.34:1400/live/ch29/01.m3u8
+
+#EXTINF:-1, Discovery World
+http://202.75.23.34:1400/live/ch30/01.m3u8
+
+#EXTINF:-1, NatGeo
+http://202.75.23.35:1400/live/ch38/01.m3u8
+
+#EXTINF:-1, Nickelodeon
+http://202.75.23.36:1400/live/ch43/01.m3u8
 
 
 #EXTINF:-1,British eurosport 2 
@@ -189,48 +441,6 @@ http://46.61.226.18/hls/CH_BOETZ/bw1500000/variant.m3u8
 #EXTINF:-1,Sports Music
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
 
-#EXTINF:-1, [COLOR green] --Sports Live Tv--[/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
-
-#EXTINF:-1,FOX SPORTS (Not English)
-http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
-#EXTINF:-1,FOX SPORTS 2 ( Not English )
-http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
-#EXTINF:-1,FOX SPORTS 2 HD  Australia
-http://fsplive_hls-lh.akamaihd.net/i/fsp_HLSlive05_1@123460/index_1200_av-p.m3u8
-
-#EXTINF:-1,ESPN (Maybe UK)
-rtmp://80.82.78.85:443/liverepeater playpath=34 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=34&width=600&height=450 token=#atd%#$ZH
-
-#EXTINF:-1,ESPN 1 US 
-rtmp://80.82.78.85:443/liverepeater playpath=26 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=34&width=600&height=450 token=#atd%#$ZH
-
-#EXTINF:-1,ESPN 2 UK 
-rtmp://80.82.78.85:443/liverepeater/19986 pageUrl=http://xxxxxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=72?48?34?48?33?18?13 pageUrl=http://popeoftheplayers.eu/hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1page/playpath=42?finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=#atd%#$ZH
-#EXTINF:-1,ESPN 2 UK (Not english )
-http://200.76.77.237/LIVE/H01/CANAL561/PROFILE05.m3u8?
-
-#EXTINF:-1,ESPN 2 US - (Link slow)
-rtmp://31.220.0.195:80/live/espnuu pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=espn22?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z
-
-
-#
-#EXTINF:-1,Sports Net Now
-http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
-
-#EXTINF:-1, TSN1
-rtmp://31.220.0.195:80/live/btpremier pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=tx1?ss5ry?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z timeout=5
-#EXTINF:-1, TSN2
-rtmp://31.220.0.195:80/live/btpremier pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=tsn2x?ss5ry?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z timeout=5
-
-#EXTINF:-1,Real Madrid
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,Football HD1
-http://46.61.226.18/hls/CH_FUTBALL1HD/bw3000000/variant.m3u8?version=2
-
-#EXTINF:-1,Football HD2
-http://46.61.226.18/hls/CH_FUTBALL2HD/bw3000000/variant.m3u8?version=2
 
 
 #EXTINF:-1,AT THE RACES
@@ -241,8 +451,6 @@ rtmp://80.82.78.26:443/liverepeater/willhdhd pageUrl=http://xxxxxxxxxxxxxxxx.xx/
 
 #EXTINF:-1,Star Sport
 rtmp://31.220.0.195:80/live/btpremier pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=starsp11?ptvsports22?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z
-
-
 
 
 #EXTINF:-1,Bein 1 HD
@@ -347,10 +555,6 @@ mmsh://212.162.68.163:80/rai_scuola
 #EXTINF:-1,Rai Storia
 mmsh://212.162.68.163/rai_storia
 
-
-
-#EXTINF:-1,GREEK-TILESPORT (low quality)
-http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
 
 
 
