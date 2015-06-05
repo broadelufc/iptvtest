@@ -5,14 +5,13 @@
 
 
 
-#EXTINF:-1,Bt sports 1
+#EXTINF:-1, BT sports 1
 rtmp://80.82.64.140:443/liverepeater playpath=42 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=42&width=600&height=450 token=#atd%#$ZH
-
-#EXTINF: BT Sport 1
+#EXTINF:-1, BT Sports 1
 http://195.154.227.38:1935/live/btsports1lsh/playlist.m3u8?
-#EXTINF:-1,BT Sport 2
+#EXTINF:-1,BT Sports 2
 http://195.154.227.38:1935/live/btsports2lsh/playlist.m3u8?
-#EXTINF:-1,BT Sport 2
+#EXTINF:-1,BT Sports 2
 rtmp://46.246.29.137:1935/stream/ playpath=q9dS41DQ8U.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other
 #EXTINF:-1,Bt sports 2
 rtmp://80.82.64.140:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH
@@ -27,19 +26,19 @@ http://185.56.30.127:8082/TV4285
 http://195.154.227.38:1935/live/skysports2lsh/playlist.m3u8
 #EXTINF:-1, Sky sports 2
 rtmp://80.82.70.106:443/liverepeater playpath=72 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH
-#EXTINF:-1,Sky sport 3
+#EXTINF:-1,Sky sports 3
 http://185.56.30.127:8082/TV4286
-#EXTINF:-1,Sky sport 3
+#EXTINF:-1,Sky sports 3
 http://195.154.227.38:1935/live/skysports3lsh/playlist.m3u8
 #EXTINF:-1, Sky sports 3
 rtmp://80.82.78.15:443/liverepeater playpath=64 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=64&width=600&height=450 token=#atd%#$ZH
-#EXTINF:-1,Sky sport 4
+#EXTINF:-1,Sky sports 4
 http://185.56.30.127:8082/TV4130
-#EXTINF:-1,Sky sport 4
+#EXTINF:-1,Sky sports 4
 http://195.154.227.38:1935/live/skysports4lsh/playlist.m3u8
 #EXTINF:-1,Sky sport 4
 rtmp://80.82.70.106:443/liverepeater playpath=31 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH
-#EXTINF:-1,Sky sport 5
+#EXTINF:-1,Sky sports 5
 http://195.154.227.38:1935/live/skysports5lsh/playlist.m3u8
 #EXTINF:-1,Sky sport 5
 rtmp://80.82.78.87:443/liverepeater playpath=65 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH
@@ -56,6 +55,124 @@ rtmp://94.102.49.126:443/liverepeater playpath=17 swfUrl=http://popeoftheplayers
 #EXTINF:-1,Eurosport 2 (not english)
 http://yayinlar.tvizleyim.com/org9/eurosport2_me/playlist.m3u8
 
+#EXTINF:-1, BBC1
+http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc1.m3u8
+#EXTINF:0,BBC One
+http://82.135.224.134:80/udp/239.100.3.1:1234
+#EXTINF:0,BBC One Scotland
+http://82.135.224.134:80/udp/239.100.3.2:1234
+
+#EXTINF:-1, BBC2
+http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc2.m3u8
+
+#EXTINF:0,BBC Two England
+http://82.135.224.134:80/udp/239.100.3.3:1234
+#EXTINF:0,BBC Three
+http://82.135.224.134:80/udp/239.100.3.4:1234
+#EXTINF:-1, Cbbeebies / BBC 3
+http://llnw.live.simplestream.com/coder7/coder.channels.channel4/hls/3/playlist.m3u8 ITV1 
+
+#EXTINF:0,BBC Four
+http://82.135.224.134:80/udp/239.100.3.5:1234
+#EXTINF:-1,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:0,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:-1,ITV 1
+http://82.135.224.134:80/udp/239.100.3.6:1234
+#EXTINF:0,ITV 1 London
+http://82.135.224.134:80/udp/239.100.3.6:1234
+#EXTINF:-1,Itv choice
+http://185.27.237.105:8082/TV0055
+#EXTINF:-1, Channel 4
+http://198.179.30.108/live/2.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe64a6144bd6452f35c672a6f5b1e14cad12f329b0e20f5ed97009e918be1e54d2ff9d69cd1875fb7da3b831812ca1b7e0c0621752f58c80751ac8ef0bab7ed67d7345bf0d71fda7cc06a28c0ca58d3ffa913ef6877100fb60d6e062894cd4cacbb1b2a741bd96c47cb5e1a799e368f70887872164d6d024e3788a9992618d613c8b77fdd22a7b3aeba948ff144a5e8627
+#EXTINF:-1, Five
+http://198.179.30.108/live/22.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe18ad473691ff9736ccb307cd9fb41092cba419fc04e218a216f9f669ce4ffbbceadd6721f4335f98416ee190cef6239c5853ac468b1fedd1da7978085299891cd3369f153f45f03a6eb42bab0269237740cdc64f619db0f0178cf651441120c84adcf539733b3e48117044d6c15b428e2022ca0dacdf7e87c1f6d7ac3820dbdb1de6b26c863988e3f3083f09b2317007
+#EXTINF:-1, 5 usa
+http://198.179.30.110/live/845.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe3612080ed69c3ac8d7ca6458a5e9b14e24f165080377c37c9d417afb8370d6ffffa76e21cf6ebdb581e592898e0f54b40ea1900678e8d16e001dd721d6b216c27cec77a28077db8bd89ab326b34cf4c505511f657dd4258e03eb3fb2bd1d35417cfc943780864c56be01e25a13c7e4738fc46370616af0f7c146441cfd9a8e6a28acef21efed80f3703a697a190240c1
+#EXTINF:-1, 5*
+http://live300.edge.filmon.com/live/851.low.stream/playlist.m3u8?id=0ad5aac39bb13fbed32ca9e84fc504ec980c28eb323bcaeb482abbe9bdb2eb8d6c413567a0d08351c145c8377f4c530cb2f2b0dda020e7f64622c22dd46bb771045f0d9c0dd42c634f031533e82f2294b0b1a76b79d47e9dddc0cfb5bc7f6f0bcd49e85ca8c0dbd1832591bb778bd3b17b985623f89c300faad32d60ae0ba1669b00512de744a6d258e535ffcbfce51664fd3dc82a5b2678
+#EXTINF:-1, E4
+http://live304.edge.filmon.com/live/65.low.stream/playlist.m3u8?id=0ad5aac39bb13fbee93ef44a91315a0288cb74e7b2aae2a7278689f3856d3ac785d7f126cc88907d96ace187b95e5f84cf7477a5b4c7b18e8e886bca2cec950ea86a5397c41e6dcccc9ea0187a9a57b4ac76cfe51b3264b57fcdb62b01a30aa2cdb4619764b3b68c5c27b46ea817d32c0ac24243a9553bb88645e4ec2867e3831f6b5137679198dac603247a73f80e5ccaa86e6948595f81
+#EXTINF:0, E4 HD
+http://pebbles124-lh.akamaihd.net/i/e4_1@137789/master.m3u8|X-Forwarded-For=85.5.87.218
+#EXTINF:0,DANCE TV
+http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
+#EXTINF:0,BANDAMAX HD
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE02.m3u8?
+#EXTINF:0, Music
+http://46.249.213.87/iPhone/broadcast/b4u-tablet.3gp/b4u-tablet.3gp-mr648k.m3u8?trackingid=3391380000&os=desktop
+#EXTINF:0,CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Channel AKA
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:0,Clubland TV
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:0,MTV Music HD
+rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream
+#EXTINF:0,MTV Hits SD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8
+#EXTINF:0,MTV Dance HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8
+#EXTINF:0,MTV Rocks HD
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8
+#EXTINF:-1, Film 4
+http://78.129.175.72/live/film4/film4.m3u8
+#EXTINF:0, Film4 HD
+http://pebbles124-lh.akamaihd.net/i/film4_1@137790/master.m3u8|X-Forwarded-For=85.5.87.218
+
+
+
+
+#EXTINF:-1, Sky Arts
+http://185.56.30.127:8082/TV4250
+#EXTINF:1,Sky Movies Premiere 
+http://91.109.20.227:8080/TV4251 
+#EXTINF:1,Sky Movies Premiere+ 
+http://91.109.20.227:8080/TV4252 
+#EXTINF:1,Sky Movies Select 
+http://91.109.20.227:8080/TV4254 
+#EXTINF:1,Sky Movies Action & Adventure 
+http://91.109.20.227:8080/TV4245 
+#EXTINF:1,Sky Movies Comedy 
+http://91.109.20.227:8080/TV4246 
+#EXTINF:1,Sky Movies Disney 
+http://91.109.20.227:8080/TV4247 
+#EXTINF:1,Sky Movies Family 
+http://91.109.20.227:8080/TV4248 
+#EXTINF:1,Sky Movies Family 
+http://91.109.20.227:8080/TV4249
+
+#EXTINF:-1 tvg-shift=-1 tvg-id=”Sky Movies Greats HD” tvg-logo=”skygreats.png” group-title=”MOVIES”,[COLOR skyblue] Sky Movies Greats [/COLOR]
+http://185.27.237.105:8082/TV4240
+
+#EXTINF:-1,Movies
+http://185.56.30.127:8082/TV4246
+#EXTINF:-1,Movies
+http://185.56.30.127:8082/TV4249
+#EXTINF:-1,Movies
+http://185.56.30.127:8082/TV4251
+
+
+#EXTINF:1,Sky Movies Premiere 
+http://185.56.30.123:8082/TV4251
+#EXTINF:1,Sky Movies Premiere+ 
+http://185.56.30.123:8082/TV4252
+#EXTINF:1,Sky Sky Movies Select 
+http://185.56.30.123:8082/TV4254
+#EXTINF:1,Sky  Movies Action & Adventure 
+http://185.56.30.123:8082/TV4245
+#EXTINF:1,Sky Movies Comedy 
+http://185.56.30.123:8082/TV4246
+#EXTINF:1,Sky Movies Disney 
+http://185.56.30.123:8082/TV4247
+#EXTINF:1,Sky  Movies Family 
+http://185.56.30.123:8082/TV4248
+#EXTINF:1,Sky   Movies SciFi 
+http://185.56.30.123:8082/TV4249
+
+
+
 #EXTINF:-1,British eurosport 2 
 rtmp://80.82.78.87:443/liverepeater playpath=21 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=17&width=600&height=450 token=#atd%#$ZH
 
@@ -65,8 +182,6 @@ rtmp://89.248.171.90:443/liverepeater playpath=21 swfUrl=http://popeoftheplayers
 #EXTINF:-1,WWE Network
 rtmp://89.248.171.90:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=49&width=600&height=450 token=#atd%#$ZH
 
-#EXTINF:-1,Boxnation [COLOR red]link_down[/COLOR]
-rtmp://$OPT:rtmp-raw=rtmp://31.220.0.195:80/live playpath=bxx swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://www.reytv.co/embed.php?live=bxx&vw=620&vh=490 token=%Zrey(nKa@#Z#
 
 #EXTINF:-1,Boxing Sports (Not english)
 http://46.61.226.18/hls/CH_BOETZ/bw1500000/variant.m3u8
@@ -99,13 +214,6 @@ http://200.76.77.237/LIVE/H01/CANAL561/PROFILE05.m3u8?
 rtmp://31.220.0.195:80/live/espnuu pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=espn22?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z
 
 
-
-#EXTINF:-1,ESPN 3 ( Not english 
-http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?
-
-#EXTINF:-1,Premier S*port [COLOR red]link_down[/COLOR]
-#
-#EXTINF:-1,SN1[COLOR red]link_down[/COLOR]
 #
 #EXTINF:-1,Sports Net Now
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
@@ -159,48 +267,16 @@ http://195.154.227.38:1935/live/bein2frlsh/playlist.m3u8 timeout=5
 
 #EXTINF:-1,Bein 3 HD
 http://185.56.30.127:8082/TV4003
-#EXTINF:-1, Bein 3 [COLOR red]link_down[/COLOR]
-rtmp://www1.iguide.to/iguide playpath=szz873nndknv7b7 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31082&autoplay=true token=#ed%h0#w18623jsda6523IDGD timeout=5
+
 #EXTINF:-1,BeIN SPORTS  2HD (Fr)
 http://185.56.30.127:8082/TV4017
 
-#EXTINF:-1,Bein 4 HD
-http://185.56.30.127:8082/TV4004
-#EXTINF:-1, Bein 4 [COLOR red]link_down[/COLOR]
 #
 #EXTINF:-1,Bein 5 HD
 http://185.56.30.127:8082/TV4005
-#EXTINF:-1, Bein 5 [COLOR red]link_down[/COLOR]
-rtmp://195.154.216.101:80/liverepeater/beinsd3 pageUrl=http://xxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC/token=#yw%tt#w@kku playpath=307609?302405?206276?pageUrlhttp pageUrl=http://goodcast.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ timeout=5
-#EXTINF:-1,Bein 6 HD
-http://185.56.30.127:8082/TV4006
-#EXTINF:-1, Bein 6 [COLOR red]link_down[/COLOR]
-rtmp://195.154.233.201:80/liverepeater/nbcsn pageUrl=http://xxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC/token=#yw%tt#w@kku playpath=306620?302406?206276?pageUrlhttp pageUrl=http://goodcast.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ timeout=5
-#EXTINF:-1,Bein 7 HD
-http://185.56.30.127:8082/TV4007
-#EXTINF:-1, Bein 7 [COLOR red]link_down[/COLOR]
-#
-#EXTINF:-1,Bein 8 HD
-http://185.56.30.127:8082/TV4008
-#EXTINF:-1, Bein 8[COLOR red]link_down[/COLOR]
-rtmp://195.154.233.201:80/liverepeater/nbcsn pageUrl=http://xxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC/token=#yw%tt#w@kku playpath=306620?302406?206276?pageUrlhttp pageUrl=http://goodcast.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ timeout=5
 
-#EXTINF:-1,Bein 9 HD
-http://185.56.30.127:8082/TV4009
-#EXTINF:-1, Bein 9[COLOR red]link_down[/COLOR]
-rtmp://195.154.253.203:80/liverepeater playpath=302409 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://goodcast.co.uk/stream.php?id=302409&width=650&height=450&stretching=uniform token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ timeout=5
-#EXTINF:-1,Bein 10 HD
-http://185.56.30.127:8082/TV4010
-#EXTINF:-1, Bein 10[COLOR red]link_down[/COLOR]
-rtmp://89.248.169.48/iguide playpath=zu6hgy66lch4ulf swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31061&autoplay=true token=#ed%h0#w18623jsda6523IDGD timeout=5
-#EXTINF:-1,Bein 11 HD
-http://185.56.30.127:8082/TV4011
-#EXTINF:-1, Bein 11[COLOR red]link_down[/COLOR]
-rtmp://www1.iguide.to/iguide playpath=58poe1eex4wu3s7 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31062&autoplay=true  token=#ed%h0#w18623jsda6523IDGD timeout=5
-#EXTINF:-1,Bein 12 HD
-http://185.56.30.127:8082/TV4012
-#EXTINF:-1, Bein 12[COLOR red]link_down[/COLOR]
-rtmp://195.154.232.181:80/liverepeater playpath=302412 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://goodcast.co.uk/stream.php?id=302412&width=650&height=450&stretching=uniform token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ timeout=5
+#
+
 #EXTINF:-1,BeIN SPORTS  13HD  (FR)
 http://185.56.30.127:8082/TV4013
 #EXTINF:-1,BeIN SPORTS  14HD  (FR)
@@ -271,16 +347,6 @@ mmsh://212.162.68.163:80/rai_scuola
 #EXTINF:-1,Rai Storia
 mmsh://212.162.68.163/rai_storia
 
-#EXTINF:-1,Sky Sport Calcio [COLOR red]link_down[/COLOR]
-http://bstream.dyndns.org:8000/live/andrededo/zanghetta06/46.ts
-#EXTINF:-1,Sky Sport 24 HD [COLOR red]link_down[/COLOR]
-http://bstream.dyndns.org:8000/live/andrededo/zanghetta06/124.ts
-
-#EXTINF:-1,Anistorpic
-http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8?sd=10&rebase=on
-
-#EXTINF:-1,Berita Satu Sport HD [COLOR red]link_down[/COLOR]
-http://beritasatulive-lh.akamaihd.net/i/b1sport_1@121529/index_720_av-p.m3u8
 
 
 #EXTINF:-1,GREEK-TILESPORT (low quality)
@@ -288,9 +354,6 @@ http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
 
 
 
-#EXTINF:-1, Sports1
-rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to
-#EXTINF:-1, Sports2 [COLOR red]link_down[/COLOR]
 #
 #EXTINF:-1, Sports3
 rtmpe://r.livecast.cc/rs/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/embed.php?ch=live2-bipmr
@@ -321,78 +384,10 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 #EXTINF:-1,Sport Time TV 7 HD Deutchland
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800
 
-#EXTINF:-1,Kanal Sports HD (720 ) [COLOR red]link_down[/COLOR]
-http://lswb-de-08.servers.octoshape.net:1935/live/kanalsport_2000k/HD.m3u8?husham.com
 
 
 #EXTINF:-1,Antena 3 Sports 720 HD
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8?husham.com
-
-
-#EXTINF:-1,IRAK Iraqiya Sport 
-http://212.7.205.5:1935/sport/live/HasBahCa.m3u8
-#EXTINF:-1,Dubai Sport [COLOR red]link_down[/COLOR]
-http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/playlist.m3u8
-#EXTINF:-1,Dubai Sports 3 (UAE) [COLOR red]link_down[/COLOR]
-http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/HasBahCa.m3u8
-#EXTINF:-1,Dubai Racing (UAE)[COLOR red]link_down[/COLOR]
-http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/playlist.m3u8
-#EXTINF:-1,ARABIC-BAHRAIN SPORTS
-rtmp://alayam.netromedia.net/btv3/btv3
-#EXTINF:-1,ARABIC-Dubai Racing
-http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/HasBahCa.m3u8
-#EXTINF:-1,ARABIC-Dubai Sports 3
-http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/HasBahCa.m3u8
-#EXTINF:-1,ARABIC-KTV Sport Extra
-rtmp://91.140.238.7/rtmplive/rtpencoder/sportextra.sdp
-#EXTINF:-1,ARABIC-KTV Sport Plus
-rtmp://91.140.238.7/rtmplive/rtpencoder/sportplus.sdp
- 
-#EXTINF:-1,BRASIL-TV Pocos - Sports
-rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
-
-
-
-#EXTINF:-1,Czech O Sport
-http://212.79.96.134:8014/
-#EXTINF:-1,Czech Sport 5
-http://212.79.96.134:8023/
-#EXTINF:-1,Czech-O Sport
-http://212.79.96.134:8014/
- 
- 
-
-#EXTINF:-1,PORSCHE CHANNEL 
-mms://100automoto.tv/channel_porsche
-
-#EXTINF:-1,AutoSport TV 
-mms://100automoto.tv/100livesport
-#EXTINF:-1,BMW CHANNEL Italia 
-mms://100automoto.tv/bmw
-
-
-#EXTINF:-1,Motorsport 7 Channel Australia
-http://motorsport.hopto.org:8080/
-
-
-
-
-#EXTINF:-1, -------------Old Links---------------
-http://www.youtube.com/user/hmemar22
-
-#EXTINF:-1,ENG-Classic Goals (Low Quality)
-rtsp://46.249.213.93/broadcast/classicgoals-tablet.3gp
-#EXTINF:-1,ENG-Climb On (Low Quality)
-rtsp://46.249.213.93/broadcast/climbon-tablet.3gp
-#EXTINF:-1,ENG-Drift 4 Ever(Low Quality)
-rtsp://46.249.213.93/broadcast/drift4ever-tablet.3gp
-#EXTINF:-1,ENG-Ghetto Kid(Low Quality)
-rtsp://46.249.213.93/broadcast/ghettokid-tablet.3gp
-#EXTINF:-1,ENG-MMA BAY TV(Low Quality)
-rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
-#EXTINF:-1,MMA(Low Quality)
-rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
-
 
 
 #EXTINF:-1, UFC 182: JONES VS. CORMIER 
