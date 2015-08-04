@@ -424,3 +424,85 @@ rtmp://fs-b3e3010000000000.id.cdn.cv.net/vxedge/fs-b3e3010000000000/fs-b3e301000
  
 #EXTINF:-1,News Westchester(Stream 1)
 rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000/fs-bce3010000000000
+
+#EXTM3U
+#EXTINF:0,###- – SKY DE – -###
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/192.ts
+#EXTINF:0,Sky Germany Krimi
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/473.ts
+#EXTINF:0,Sky germany Kino Welt TV
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/474.ts
+#EXTINF:0,Germany Sport 1 HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/475.ts
+#EXTINF:0,Sky Germany Cinema +24
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/476.ts
+#EXTINF:0,Sky Germany MGM HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/482.ts
+#EXTINF:0,Sky Germany History Channel
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/484.ts
+#EXTINF:0,DE – Romance TV
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/490.ts
+#EXTINF:0,DE – PRO 7
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/491.ts
+#EXTINF:0,DE – ORF 2
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/492.ts
+#EXTINF:0,DE – ORF 1 HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/493.ts
+#EXTINF:0,DE – National Geographic HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/494.ts
+#EXTINF:0,DE – N-TV
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/495.ts
+#EXTINF:0,DE – Kabel 1
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/497.ts
+#EXTINF:0,DE – Hystory Channel HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/498.ts
+#EXTINF:0,DE – Fox HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/499.ts
+#EXTINF:0,DE – Eurosport HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/500.ts
+#EXTINF:0,DE – Discovery Channel HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/501.ts
+#EXTINF:0,DE – Channel 21
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/502.ts
+#EXTINF:0,DE – 13 Street HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/504.ts
+#EXTINF:0,DE – AXN HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/503.ts
+#EXTINF:0,DE – RTL
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/489.ts
+#EXTINF:0,Sky Germany Cinema +1 HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/488.ts
+#EXTINF:0,Sky Germany Discovery Channel HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/487.ts
+#EXTINF:0,Sky Germany Emotion
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/486.ts
+#EXTINF:0,Sky Germany Fox HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/485.ts
+#EXTINF:0,DE – MGM HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/496.ts
+#EXTINF:0,Sky Germany Hits
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/483.ts
+#EXTINF:0,Sky Germany AXN HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/477.ts
+#EXTINF:0,Sky Germany NatGeo Wild HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/472.ts
+#EXTINF:0,Sky Germany Action HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/478.ts
+#EXTINF:0,Sky Germany 13 Street HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/479.ts
+#EXTINF:0,Sky Germany TNT Serie HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/480.ts
+#EXTINF:0,Sky Germany TNT Film HD
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/481.ts
+#EXTINF:0,———— UNITED KINGDOM ————
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/459.ts
+#EXTINF:0,Sky Movies Premiere UK
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/460.ts
+#EXTINF:0,Sky Living UK
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/461.ts
+#EXTINF:0,Sky Family UK
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/462.ts
+#EXTINF:0,Sky Drama UK
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/463.ts
+#EXTINF:0,Sky Action UK
+http://proffiptv.mine.nu:15003/live/CAIAZZA_2/ALESSANDRO/464.ts - See more at: http://www.iptvsharing.com/2015/08/playlist-iptv-sky-germany-uk-m3u8.html#sthash.9KrrCnxp.dpuf
