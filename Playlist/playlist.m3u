@@ -1,139 +1,376 @@
 #EXTM3U
 #EXTINF:-1,[COLOR blue][I][B]--- 14-08-2015 ---[/B][/I][/COLOR]
 #EXTINF:-1, [COLOR green] --BROADE IPTV--[/COLOR]  
+#EXTINF:-1,. BBC One UK
+http://37.187.160.187:8000/live/ressler/skype/53.ts
+#EXTINF:-1,. BBC Two UK
+http://37.187.160.187:8000/live/ressler/skype/54.ts
+#EXTINF:-1,. ITV1 UK
+http://37.187.160.187:8000/live/ressler/skype/55.ts
+#EXTINF:-1,. Channel 4 UK
+http://37.187.160.187:8000/live/ressler/skype/56.ts
+#EXTINF:-1,. Channel 5 UK
+http://37.187.160.187:8000/live/ressler/skype/57.ts
+#EXTINF:-1,. Sky 1 UK
+http://37.187.160.187:8000/live/ressler/skype/77.ts
+#EXTINF:-1,. Sky Atlantic UK
+http://37.187.160.187:8000/live/ressler/skype/81.ts
+#EXTINF:-1,. Investigation Discovery UK
+http://37.187.160.187:8000/live/ressler/skype/98.ts
+#EXTINF:-1,. History Channel UK
+http://37.187.160.187:8000/live/ressler/skype/90.ts
+#EXTINF:-1,. Gold UK
+http://37.187.160.187:8000/live/ressler/skype/84.ts
+#EXTINF:-1,. E4 UK
+http://37.187.160.187:8000/live/ressler/skype/63.ts
+#EXTINF:-1,. Drama
+http://37.187.160.187:8000/live/ressler/skype/68.ts
+#EXTINF:-1,. Discovery Science UK
+http://37.187.160.187:8000/live/ressler/skype/94.ts
+#EXTINF:-1,. Discovery History UK
+http://37.187.160.187:8000/live/ressler/skype/93.ts
+#EXTINF:-1,. Dave UK
+http://37.187.160.187:8000/live/ressler/skype/83.ts
+#EXTINF:-1,. Comedy Central UK
+http://37.187.160.187:8000/live/ressler/skype/82.ts
+#EXTINF:-1,. More4 UK
+http://37.187.160.187:8000/live/ressler/skype/64.ts
+#EXTINF:-1,. ITV4 UK
+http://37.187.160.187:8000/live/ressler/skype/60.ts
+#EXTINF:-1,. ITV3 UK
+http://37.187.160.187:8000/live/ressler/skype/59.ts
+#EXTINF:-1,. ITV2 UK
+http://37.187.160.187:8000/live/ressler/skype/58.ts
+#EXTINF:-1,. BBC Two UK
+http://37.187.160.187:8000/live/ressler/skype/54.ts
+#EXTINF:-1,. BBC Three UK
+http://37.187.160.187:8000/live/ressler/skype/61.ts
+#EXTINF:-1,. BBC Four UK
+http://37.187.160.187:8000/live/ressler/skype/62.ts
+#EXTINF:-1,. Animal Planet UK
+http://37.187.160.187:8000/live/ressler/skype/95.ts
+#EXTINF:-1,. Alibi UK
+http://37.187.160.187:8000/live/ressler/skype/85.ts
+#EXTINF:-1,. 5USA UK
+http://37.187.160.187:8000/live/ressler/skype/70.ts
+#EXTINF:-1,. 5* UK
+http://37.187.160.187:8000/live/ressler/skype/71.ts
+#EXTINF:-1,. 3e
+http://37.187.160.187:8000/live/ressler/skype/76.ts
+#EXTINF:-1,. TG4
+http://37.187.160.187:8000/live/ressler/skype/75.ts
+#EXTINF:-1,. Sky Movies Sci-Fi & Horror UK
+http://37.187.160.187:8000/live/ressler/skype/121.ts
+#EXTINF:-1,. Sky Movies Premiere UK
+http://37.187.160.187:8000/live/ressler/skype/115.ts
+#EXTINF:-1,. Sky Movies Family UK
+http://37.187.160.187:8000/live/ressler/skype/116.ts
+#EXTINF:-1,. Sky Movies Drama & Romance UK
+http://37.187.160.187:8000/live/ressler/skype/120.ts
+#EXTINF:-1,. Sky Movies Crime & Thriller UK
+http://37.187.160.187:8000/live/ressler/skype/119.ts
+#EXTINF:-1,. Sky Movies Comedy UK
+http://37.187.160.187:8000/live/ressler/skype/118.ts
+#EXTINF:-1,. Sky Movies Action & Adventure UK
+http://37.187.160.187:8000/live/ressler/skype/117.ts
+#EXTINF:-1,. Sky Living UK
+http://37.187.160.187:8000/live/ressler/skype/80.ts
+#EXTINF:0,BBC 1
 
-#EXTM3U
-#EXTINF:0,ESPN HD
-http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
-#EXTINF:0,abc hd
-http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
-#EXTINF:0,CBS HD
-http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
-#EXTINF:0,Nat GEO HD
-http://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412
-#EXTINF:0,TNT HD
-http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
-#EXTINF:0,24/7Comedy Movies
-http://93.174.95.125:1935/edge/_definst_/a1wn1j3ra1w0cv0/playlist.m3u8?wowzasessionid=1419879335
-#EXTINF:0,24/7HD Movies 1
-http://93.174.95.125:1935/edge/_definst_/asn0crzhq351g0w/playlist.m3u8?wowzasessionid=1420171902
-#EXTINF:0,ABC 22HD
-http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
-#EXTINF:0,ABC Family
-http://93.174.95.125:1935/edge/_definst_/vx63a0c7mxk2jt8/playlist.m3u8?wowzasessionid=1419880244
-#EXTINF:0,AMC
-http://93.174.95.125:1935/edge/_definst_/z4cxm7zlfyqs65m/playlist.m3u8?wowzasessionid=1419872183
-#EXTINF:0,beIN Sport (Spanish)
-http://93.174.95.125:1935/edge/_definst_/31j6bqlq8e3wwc5/playlist.m3u8?wowzasessionid=1420168629
-#EXTINF:0,beIN Sport (USA)
-http://93.174.95.125:1935/edge/_definst_/dhpj1xgov72x4br/manifest.m3u8?wowzasessionid=1426958694
-#EXTINF:0,BET
-http://93.174.95.125:1935/edge/_definst_/kexkxje3nqi6dtl/playlist.m3u8?wowzasessionid=1419880467
-#EXTINF:0,Bravo
-http://93.174.95.125:1935/edge/_definst_/uw433ikqnrj501l/playlist.m3u8?wowzasessionid=1419872183
+http://84.232.5.115/liveedge/bbc1.stream/playlist.m3u8
+
+#EXTINF:0,BBC 2
+
+http://84.232.5.115/liveedge/bbc2.stream/playlist.m3u8
+
+#EXTINF:0,BBC 3
+
+http://84.232.5.115/liveedge/bbc3.stream/playlist.m3u8
+
+#EXTINF:0,BBC 4
+
+http://84.232.5.115/liveedge/bbc4.stream/playlist.m3u8
+
+#EXTINF:0,BBC Alba
+
+http://84.232.5.115/liveedge/bbcalba.../playlist.m3u8
+
+#EXTINF:0,Channel 4
+
+http://84.232.5.115/liveedge/ch4.stream/playlist.m3u8
+
+#EXTINF:0,Channel 5
+
+http://84.232.5.115/liveedge/ch5.stream/playlist.m3u8
+
+#EXTINF:0,Bliss
+
+http://84.232.5.115/liveedge/bliss.stream/playlist.m3u8
+
+#EXTINF:0,4 Seven
+
+http://84.232.5.115/liveedge/4seven..../playlist.m3u8
+
+#EXTINF:0,5 Star
+
+http://84.232.5.115/liveedge/5star.stream/playlist.m3u8
+
+#EXTINF:0,5 USA
+
+http://84.232.5.115/liveedge/5usa.stream/playlist.m3u8
+
+#EXTINF:0,Alibi
+
+http://84.232.5.115/liveedge3/alibi..../playlist.m3u8
+
+#EXTINF:0,At The Races
+
+http://84.232.5.115/liveedge3/atther.../playlist.m3u8
+
+#EXTINF:0,BT Sport 1
+
+http://84.232.5.115/liveedge/bt1.stream/playlist.m3u8
+
+#EXTINF:0,BT Sport 2
+
+http://84.232.5.115/liveedge/bt2.stream/playlist.m3u8
+
+#EXTINF:0,BT Sport ESPN
+
+http://84.232.5.115/liveedge/espn.stream/playlist.m3u8
+
 #EXTINF:0,Cartoon Network
-http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
-#EXTINF:0,CBS HD (WHIO 7)
-http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048
-#EXTINF:0,CNN USA HD
-http://93.174.95.125:1935/edge/_definst_/rjxo8hz17q9waiq/playlist.m3u8?wowzasessionid=1758235421
-#EXTINF:0,CNN USA SD
-http://93.174.95.125:1935/edge/_definst_/1z3ps9vxnknuskb/playlist.m3u8?wowzasessionid=1419872183
-#EXTINF:0,Crime & Investigation
-http://pdd2.loginto.me:443/cdn78/tot_ci_360p/playlist.m3u8
-#EXTINF:0,Discovery Channel HD
-http://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569
+
+http://84.232.5.115/liveedge3/cartoo.../playlist.m3u8
+
+#EXTINF:0,CBS Reality
+
+http://84.232.5.115/liveedge/cbsreal.../playlist.m3u8
+
+#EXTINF:0,Challenge
+
+http://84.232.5.115/liveedge/challen.../playlist.m3u8
+
+#EXTINF:0,Comedy Central
+
+http://84.232.5.115/liveedge3/comedy.../playlist.m3u8
+
+#EXTINF:0,Dave
+
+http://84.232.5.115/liveedge3/dave.stream/playlist.m3u8
+
+#EXTINF:0,Discovery History
+
+http://84.232.5.115/liveedge3/discov.../playlist.m3u8
+
+#EXTINF:0,Discovery Science
+
+http://84.232.5.115/liveedge3/discov.../playlist.m3u8
+
+#EXTINF:0,Discovery Shed
+
+http://84.232.5.115/liveedge3/shed.stream/playlist.m3u8
+
+#EXTINF:0,Discovery Turbo
+
+http://84.232.5.115/liveedge3/discov.../playlist.m3u8
+
 #EXTINF:0,Disney Channel
-http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412
-#EXTINF:0,ESPN HD
-http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
-#EXTINF:0,ESPN SD
-http://93.174.95.125:1935/edge/_definst_/erooxo5dcvk05zk/chunklist.m3u8?wowzasessionid=1426891013
-#EXTINF:0,ESPN 2HD
-http://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325
-#EXTINF:0,ESPN 2SD
-http://93.174.95.125:1935/edge/_definst_/5hd19kwxef5b59o/playlist.m3u8?wowzasessionid=1420123722
+
+http://84.232.5.115/liveedge3/disney.../playlist.m3u8
+
+#EXTINF:0,Disney Jr
+
+http://84.232.5.115/liveedge3/disney.../playlist.m3u8
+
+#EXTINF:0,Disney XD
+
+http://84.232.5.115/liveedge3/disney.../playlist.m3u8
+
+#EXTINF:0,DMax
+
+http://84.232.5.115/liveedge3/dmax.stream/playlist.m3u8
+
+#EXTINF:0,Drama
+
+http://84.232.5.115/liveedge3/drama..../playlist.m3u8
+
+#EXTINF:0,E4
+
+http://84.232.5.115/liveedge/e4.stream/playlist.m3u8
+
+#EXTINF:0,E!
+
+http://84.232.5.115/liveedge/e.stream/playlist.m3u8
+
+#EXTINF:0,Eden
+
+http://84.232.5.115/liveedge3/eden.stream/playlist.m3u8
+
+#EXTINF:0,Eurosport 1
+
+http://84.232.5.115/liveedge3/eurosp.../playlist.m3u8
+
+#EXTINF:0,Eurosport 2
+
+http://84.232.5.115/liveedge3/eurosp.../playlist.m3u8
+
+#EXTINF:0,Film 4
+
+http://84.232.5.115/liveedge/film4.stream/playlist.m3u8
+
+#EXTINF:0,Flava
+
+http://84.232.5.115/liveedge/flava.stream/playlist.m3u8
+
 #EXTINF:0,Food Network
-http://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022
-#EXTINF:0,FOX 45HD
-http://93.174.95.125:1935/edge/_definst_/yuu6p5oaa1x4a1p/playlist.m3u8?wowzasessionid=1419906680
-#EXTINF:0,FOX 45SD
-http://93.174.95.125:1935/edge/_definst_/q49uyvij145wcky/playlist.m3u8?wowzasessionid=1419873438
-#EXTINF:0,FOX News HD
-http://93.174.95.125:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821
-#EXTINF:0,FOX News SD
-http://93.174.95.125:1935/edge/_definst_/w0mr10getvsikam/playlist.m3u8?wowzasessionid=1419873587
-#EXTINF:0,Golf Channel HD
-http://93.174.95.125:1935/edge/_definst_/ts6w24dx29tcwi4/playlist.m3u8?wowzasessionid=1420169504
-#EXTINF:0,Hallmark HD
-http://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236
-#EXTINF:0,HBO HD
-http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571
-#EXTINF:0,HBO SD
-http://93.174.95.125:1935/edge/_definst_/qzbbu26gcvjxksz/playlist.m3u8?wowzasessionid=1419907309
-#EXTINF:0,HGTV
-http://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602
-#EXTINF:0,History Channel (Europe)
-http://93.174.95.125:1935/edge/_definst_/logojbjhar79pc8/manifest.m3u8?wowzasessionid=1426231700
-#EXTINF:0,History Channel (USA)
-http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554
-#EXTINF:0,I.D.
-http://93.174.95.125:1935/edge/_definst_/yjma618cibkqxeo/chunklist.m3u8?wowzasessionid=1420168729
-#EXTINF:0,Lifetime HD
-http://93.174.95.125:1935/edge/_definst_/7b2gr554gyyth8e/playlist.m3u8?wowzasessionid=1419879018
-#EXTINF:0,MSNBC SD
-http://93.174.95.125:1935/edge/_definst_/1ioc7taql4472xs/playlist.m3u8?wowzasessionid=1419874712
-#EXTINF:0,MTV
-http://93.174.95.125:1935/edge/_definst_/d2z1vc4ahrl6x26/playlist.m3u8?wowzasessionid=1420171062
-#EXTINF:0,Nat GEO HD
-http://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412
-#EXTINF:0,Nat GEO SD
-http://93.174.95.125:1935/edge/_definst_/b8bav5ayzso8m8q/playlist.m3u8?wowzasessionid=1420170282
-#EXTINF:0,NBC HD
-http://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103
-#EXTINF:0,NBC SD
-http://93.174.95.125:1935/edge/_definst_/s5whw37nl7weedp/playlist.m3u8?wowzasessionid=1420124473
-#EXTINF:0,NBC Sports Network HD
-http://93.174.95.125:1935/edge/_definst_/0fm1lstybe4a0j4/playlist.m3u8?wowzasessionid=1419879018
-#EXTINF:0,NBC Sports Network SD
-http://93.174.95.125:1935/edge/_definst_/2qmiwfydbj6yu89/playlist.m3u8?wowzasessionid=1419879018
-#EXTINF:0,Nickelodeon HD
-http://93.174.95.125:1935/edge/_definst_/q2hs5fqm8b039y0/playlist.m3u8?wowzasessionid=1420170368
-#EXTINF:0,Nickelodeon SD
-http://93.174.95.125:1935/edge/_definst_/64jaber5pjqj2cr/playlist.m3u8?wowzasessionid=1434627898
-#EXTINF:0,OWN
-http://93.174.95.125:1935/edge/_definst_/uehgy5htiasffj3/playlist.m3u8?wowzasessionid=1419878658
-#EXTINF:0,Oxygen
-http://93.174.95.125:1935/edge/_definst_/zmt2swezlswh9nz/playlist.m3u8?wowzasessionid=1419872183
-#EXTINF:0,Science
-http://93.174.95.125:1935/edge/_definst_/00t250wv1d4ltib/playlist.m3u8?wowzasessionid=1420170626
-#EXTINF:0,Showtime HD
-http://93.174.95.125:1935/edge/_definst_/bwbop58ixz281wv/chunklist.m3u8?wowzasessionid=1419875151
-#EXTINF:0,Showtime SD
-http://93.174.95.125:1935/edge/_definst_/s53jbkmyldngbks/playlist.m3u8?wowzasessionid=1419873587
-#EXTINF:0,Spike
-http://93.174.95.125:1935/edge/_definst_/sax2mq2alpirnww/playlist.m3u8?wowzasessionid=1419878529
-#EXTINF:0,SyFy HD
-http://93.174.95.125:1935/edge/_definst_/x7uii7mll2b7lh4/playlist.m3u8?wowzasessionid=1419878403
-#EXTINF:0,SyFy SD
-http://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403
-#EXTINF:0,tbs
-http://93.174.95.125:1935/edge/_definst_/jh8nj062bqbsxdh/playlist.m3u8?wowzasessionid=1419878319
-#EXTINF:0,TLC
-http://93.174.95.125:1935/edge/_definst_/iugceoy4o6ljhck/chunklist.m3u8?wowzasessionid=1419907929
-#EXTINF:0,TNT HD
-http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827
-#EXTINF:0,TNT SD
-http://93.174.95.125:1935/edge/_definst_/6q4jlbqwvxuingo/chunklist.m3u8?wowzasessionid=1419943929
-#EXTINF:0,Travel Channel HD
-http://93.174.95.125:1935/edge/_definst_/4aiufk0o430qt0d/playlist.m3u8?wowzasessionid=1419877887
-#EXTINF:0,Travel Channel SD
-http://93.174.95.125:1935/edge/_definst_/1fvuok2ny4jtmgq/chunklist.m3u8?wowzasessionid=1419913887
-#EXTINF:0,TruTV
-http://93.174.95.125:1935/edge/_definst_/uhnr4161ybioa5w/playlist.m3u8?wowzasessionid=1420124955
-#EXTINF:0,TV Land
-http://93.174.95.125:1935/edge/_definst_/7yxirr4046nk5ca/playlist.m3u8?wowzasessionid=1419908401
-#EXTINF:0,Univision
-http://93.174.95.125:1935/edge/_definst_/obzq3ltrjoaxglf/manifest.m3u8?wowzasessionid=1419908048
-#EXTINF:0,USA Network
-http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300
+
+http://84.232.5.115/liveedge/foodnet.../playlist.m3u8
+
+#EXTINF:0,FOX
+
+http://84.232.5.115/liveedge3/fox.stream/playlist.m3u8
+
+#EXTINF:0,FX
+
+http://84.232.5.115/liveedge/fx.stream/playlist.m3u8
+
+#EXTINF:0,Gold
+
+http://84.232.5.115/liveedge3/gold.stream/playlist.m3u8
+
+#EXTINF:0,H2
+
+http://84.232.5.115/liveedge3/h2.stream/playlist.m3u8
+
+#EXTINF:0,History
+
+http://84.232.5.115/liveedge3/histor.../playlist.m3u8
+
+#EXTINF:0,ITV 1
+
+http://84.232.5.115/liveedge/itv1.stream/playlist.m3u8
+
+#EXTINF:0,ITV 2
+
+http://84.232.5.115/liveedge/itv2.stream/playlist.m3u8
+
+#EXTINF:0,ITV 3
+
+http://84.232.5.115/liveedge/itv3.stream/playlist.m3u8
+
+#EXTINF:0,ITV 4
+
+http://84.232.5.115/liveedge/itv4.stream/playlist.m3u8
+
+#EXTINF:0,ITV be
+
+http://84.232.5.115/liveedge/itvbe.stream/playlist.m3u8
+
+#EXTINF:0,ITV Encore
+
+http://84.232.5.115/liveedge3/itvenc.../playlist.m3u8
+
+#EXTINF:0,More 4
+
+http://84.232.5.115/liveedge/more4.stream/playlist.m3u8
+
+#EXTINF:0,Motors TV
+
+http://84.232.5.115/liveedge3/motors.../playlist.m3u8
+
+#EXTINF:0,Movies 24
+
+http://84.232.5.115:80/liveedge3/mov.../playlist.m3u8
+
+#EXTINF:0,MUTV
+
+http://84.232.5.115/liveedge3/mutv.stream/playlist.m3u8
+
+#EXTINF:0,Nat Geo
+
+http://84.232.5.115/liveedge3/natgeo.../playlist.m3u8
+
+#EXTINF:0,Nat Geo Wild
+
+http://84.232.5.115/liveedge3/natgeo.../playlist.m3u8
+
+#EXTINF:0,Pick
+
+http://84.232.5.115/liveedge/pick.stream/playlist.m3u8
+
+#EXTINF:0,Premier Sports
+
+http://84.232.5.115/liveedge3/premie.../playlist.m3u8
+
+#EXTINF:0,Quest
+
+http://84.232.5.115/liveedge3/quest..../playlist.m3u8
+
+#EXTINF:0,Racing UK
+
+http://84.232.5.115/liveedge/racingu.../playlist.m3u8
+
+#EXTINF:0,Really
+
+http://84.232.5.115/liveedge3/really.../playlist.m3u8
+
+#EXTINF:0,RTE 1
+
+http://84.232.5.115/liveedge3/rte1.stream/playlist.m3u8
+
+#EXTINF:0,RTE 2
+
+http://84.232.5.115/liveedge3/rte2.stream/playlist.m3u8
+
+#EXTINF:0,Scuzz
+
+http://84.232.5.115/liveedge/scuzz.stream/playlist.m3u8
+
+#EXTINF:0,Setanta Sport
+
+http://84.232.5.115/liveedge3/setant.../playlist.m3u8
+
+#EXTINF:0,Sky 1
+
+http://84.232.5.115/liveedge3/sky1.stream/playlist.m3u8
+
+#EXTINF:0,Sky 2
+
+http://84.232.5.115/liveedge3/sky2.stream/playlist.m3u8
+
+#EXTINF:0,Sky Atlantic
+
+http://84.232.5.115/liveedge/atlanti.../playlist.m3u8
+
+#EXTINF:0,Sky Living
+
+http://84.232.5.115/liveedge/living..../playlist.m3u8
+
+#EXTINF:0,Sky LivingIt
+
+http://84.232.5.115/liveedge3/living.../playlist.m3u8
+
+#EXTINF:0,Sky Movies Action & Adventure
+
+http://84.232.5.115/liveedge3/movact.../playlist.m3u8
+
+#EXTINF:0,Sky Movies Comedy
+
+http://84.232.5.115/liveedge3/movcom.../playlist.m3u8
+
+#EXTINF:0,Sky Movies Crime & Thriller
+
+http://84.232.5.115/liveedge3/movthr.../playlist.m3u8
+
+#EXTINF:0,Sky Movies Disney
+
+http://84.232.5.115/liveedge3/movdis.../playlist.m3u8
+
+#EXTINF:0,Sky Movies Drama & Romance
+
+http://84.232.5.115/liveedge3/movdra.../playlist.m3u8
+
+#EXTINF:0,Sky Movies Family
+
+http://84.232.5.115/liveedge3/movfam.../playlist.m3u8
